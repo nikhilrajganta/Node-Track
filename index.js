@@ -125,7 +125,8 @@ const movies = [
   },
 ];
 
-const PORT = 4000;
+const PORT = process.env.PORT || 4000;
+
 app.get("/", function (request, response) {
   response.send("🙋‍♂️, 🌏 🎊✨🤩");
 });
