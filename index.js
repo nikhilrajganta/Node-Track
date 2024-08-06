@@ -16,7 +16,7 @@ app.use(cors());
 const PORT = process.env.PORT || 4000;
 
 app.get("/", function (request, response) {
-  response.send("🙋‍♂️, 🌏 🎊✨🤩");
+  response.send("🙋‍♂️, 🌏 🎊✨🤩 hello");
 });
 
 app.use("/movies", moviesRouter);
