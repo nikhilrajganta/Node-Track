@@ -96,8 +96,7 @@ const movies = [
   },
   {
     name: "PS2",
-    poster:
-      "https://m.media-amazon.com/images/M/MV5BYjFjMTQzY2EtZjQ5MC00NGUyLWJiYWMtZDI3MTQ1MGU4OGY2XkEyXkFqcGdeQXVyNDExMjcyMzA@._V1_.jpg",
+    poster: "https://static.toiimg.com/photo/99838449.cms?imgsize=19520",
     summary:
       "Ponniyin Selvan: I is an upcoming Indian Tamil-language epic period action film directed by Mani Ratnam, who co-wrote it with Elango Kumaravel and B. Jeyamohan",
     rating: 8,
@@ -111,8 +110,18 @@ const movies = [
     summary:
       "When Earth becomes uninhabitable in the future, a farmer and ex-NASA\\n pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team\\n of researchers, to find a new planet for humans.",
     rating: 8.8,
-    trailer: "https://youtu.be/NgsQ8mVkN8w",
+    trailer: "https://youtube.com/embed/NgsQ8mVkN8w",
     id: "109",
+  },
+  {
+    name: "Omkar Annaya",
+    poster:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4cv3r3K-CkyAbejA5M1oKCBIRlYlRvRF9Ew&s",
+    summary:
+      "Ohmkar is an Indian television presenter and film director who predominantly works in Telugu television and films.[1] He made his debut into television as a video jockey in the music show Ankitham on Gemini Music",
+    rating: 1,
+    trailer: "https://youtube.com/embed/NgsQ8mVkN8w",
+    id: "110",
   },
 ];
 
